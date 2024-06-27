@@ -1,0 +1,8 @@
+scikit-learn
+numpy==1.24.1
+torch
+torchvision
+pandas
+tqdm
+ts
+gradio
