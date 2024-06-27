@@ -6,7 +6,6 @@ LeNet é uma estrutura de rede neural convolucional proposta por LeCun et al. em
 
 mais informações sobre a lenet5 : [aqui](https://en.wikipedia.org/wiki/LeNet)
 
-### deploy
-#### Teste :
+#### Teste
 
 https://huggingface.co/spaces/hudsonma/lenet5
